@@ -1,0 +1,11 @@
+d:\Lab\Lab\FactoryMethod\bin\Debug\netcoreapp2.2\FactoryMethod.deps.json
+d:\Lab\Lab\FactoryMethod\bin\Debug\netcoreapp2.2\FactoryMethod.runtimeconfig.json
+d:\Lab\Lab\FactoryMethod\bin\Debug\netcoreapp2.2\FactoryMethod.runtimeconfig.dev.json
+d:\Lab\Lab\FactoryMethod\bin\Debug\netcoreapp2.2\FactoryMethod.dll
+d:\Lab\Lab\FactoryMethod\bin\Debug\netcoreapp2.2\FactoryMethod.pdb
+d:\Lab\Lab\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.csprojAssemblyReference.cache
+d:\Lab\Lab\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.csproj.CoreCompileInputs.cache
+d:\Lab\Lab\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.AssemblyInfoInputs.cache
+d:\Lab\Lab\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.AssemblyInfo.cs
+d:\Lab\Lab\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.dll
+d:\Lab\Lab\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.pdb

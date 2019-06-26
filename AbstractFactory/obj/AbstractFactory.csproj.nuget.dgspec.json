@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Lab\\Lab\\FactoryMethod\\FactoryMethod.csproj": {}
+    "d:\\Lab\\Lab\\AbstractFactory\\AbstractFactory.csproj": {}
   },
   "projects": {
-    "d:\\Lab\\Lab\\FactoryMethod\\FactoryMethod.csproj": {
+    "d:\\Lab\\Lab\\AbstractFactory\\AbstractFactory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Lab\\Lab\\FactoryMethod\\FactoryMethod.csproj",
-        "projectName": "FactoryMethod",
-        "projectPath": "d:\\Lab\\Lab\\FactoryMethod\\FactoryMethod.csproj",
+        "projectUniqueName": "d:\\Lab\\Lab\\AbstractFactory\\AbstractFactory.csproj",
+        "projectName": "AbstractFactory",
+        "projectPath": "d:\\Lab\\Lab\\AbstractFactory\\AbstractFactory.csproj",
         "packagesPath": "C:\\Users\\arahgozar\\.nuget\\packages\\",
-        "outputPath": "d:\\Lab\\Lab\\FactoryMethod\\obj\\",
+        "outputPath": "d:\\Lab\\Lab\\AbstractFactory\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
